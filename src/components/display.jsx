@@ -19,7 +19,7 @@ const TraineeList = () => {
     },
     {
      
-      name: 'priya dharshan',
+      name: 'priyadarshan',
       age: 20,
       email: 'dharshan@gmail.com',
     },

@@ -18,7 +18,12 @@ function navbar() {
                         <li className="nav-item">
                         <Link to='trainees' style={{padding:15,textDecoration:"none",color:"black"}}>trainees</Link>
                            </li>
-                        
+                           <li className="nav-item">
+                        <Link to='data' style={{padding:15,textDecoration:"none",color:"black"}}>Users</Link>
+                           </li>
+                           <li className="nav-item">
+                        <Link to='ProductList' style={{padding:15,textDecoration:"none",color:"black"}}>ProductList</Link>
+                           </li>
                     </ul>
                 </div>
             </div>

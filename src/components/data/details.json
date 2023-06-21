@@ -1,0 +1,26 @@
+{
+    "users":[
+        {
+            "imageUrl": "https://img.freepik.com/free-photo/closeup-happy-pretty-indian-business-woman_1262-2258.jpg",
+            "id":1,
+            "name":"Yamini",
+            "age":20,
+            "city":"Cbe"
+        },
+        {
+            "imageUrl": "https://media.istockphoto.com/id/1354842602/photo/portrait-of-a-young-businesswoman-working-on-a-laptop-in-an-office.jpg?s=612x612&w=0&k=20&c=kfP1g2712RiaxsDriIxFo363ARlaL2D591s-22CnIo8=",
+            "id":2,
+            "name":"Meenu",
+            "age":26,
+            "city":"Cbe"
+        },
+        {
+            "imageUrl": "https://c0.wallpaperflare.com/preview/852/396/1019/business-office-business-woman-professional.jpg",
+            "id":3,
+            "name":"Ammu",
+            "age":50,
+            "city":"Chennai"
+        }
+
+    ]
+}
