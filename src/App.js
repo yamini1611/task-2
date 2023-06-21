@@ -7,6 +7,7 @@ import Display from './components/display';
 import Data from './components/data/data';
 import ProductList from './components/task-4/ProductList';
 import ProductDetails from './components/task-4/ProductDetails';
+import Cart from './components/task-4/cart'
 function App() {
   
   return (
@@ -22,7 +23,8 @@ function App() {
           <Route exact path="ProductList" element={<ProductList />} />
 
           <Route path="ProductDetails/:id" element={<ProductDetails />} />
-          
+          <Route  path="cart" element={<Cart />} />
+
         </Routes>
       
       </div>

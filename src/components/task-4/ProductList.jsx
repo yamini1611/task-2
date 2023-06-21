@@ -30,7 +30,7 @@ const ProductList = () => {
         <Link key={product.id} to={`/ProductDetails/${product.id}`} style={{ textDecoration: 'none' }}>
           <div style={{ marginLeft: 10,display:'inline-flex', flexDirection: 'col' }}>
             <img src={product.image} height={400} width={400} alt={product.product_name} />
-            <span style={{ marginTop: '400px', display: 'block',marginLeft:-130,marginRight:20,padding:6}}>VIEW DETAILS</span>
+            <span style={{ marginTop: '400px', display: 'block',marginLeft:-130,marginRight:20,padding:6,color:'black',fontWeight:600}}>VIEW DETAILS</span>
           </div>
         </Link>
       ))}

@@ -24,6 +24,9 @@ function navbar() {
                            <li className="nav-item">
                         <Link to='ProductList' style={{padding:15,textDecoration:"none",color:"black"}}>ProductList</Link>
                            </li>
+                           <li className="nav-item">
+                        <Link to='cart' style={{padding:15,textDecoration:"none",color:"black"}}>Cart</Link>
+                           </li>
                     </ul>
                 </div>
             </div>

@@ -1,0 +1,19 @@
+{
+  "cart": [
+    {
+      "id": 2,
+      "name": "Parker Medium Striped Straw and Leather Crossbody Bag ",
+      "price": 35999
+    },
+    {
+      "id": 6,
+      "name": "Jet Set Large Logo Crossbody Bag",
+      "price": 65000
+    },
+    {
+      "id": 4,
+      "name": "Kelsey Medium Pebbled Leather Shoulder Bag",
+      "price": 21000
+    }
+  ]
+}
